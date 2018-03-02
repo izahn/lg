@@ -1,0 +1,20 @@
+-- Student info in oracle database
+
+-- Course evaluation data in proprietary system called "blue"
+
+-- Admissions system called "slate"
+
+Bottom line: data stored in several different systems.
+
+
+-- Sarah works mostly in Stata to clean/merge/analyze data
+
+-- Data security practices
+
+-- Example: report addressing bias in HBS financial aid process
+
+-- 12 week project to build data repository
+
+-- Definitions (e.g., what is a student?)
+
+
